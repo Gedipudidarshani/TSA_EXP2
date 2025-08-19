@@ -62,7 +62,8 @@ plt.show()
 ```
 ### OUTPUT
 A - LINEAR TREND ESTIMATION
-<img width="964" height="610" alt="image" src="https://github.com/user-attachments/assets/eb17a6e9-d3d3-4732-b328-169ce687c2d5" />
+<img width="1363" height="784" alt="image" src="https://github.com/user-attachments/assets/155fd01b-ed9e-4ba1-b065-28bb157075c8" />
+
 
 B- POLYNOMIAL TREND ESTIMATION
 <img width="1447" height="750" alt="image" src="https://github.com/user-attachments/assets/b64392d2-da42-4d73-9f82-2e8753cd0d85" />
